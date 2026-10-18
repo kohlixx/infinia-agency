@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "reactmedia",
+=======
+  "name": "infinia-agency",
+>>>>>>> 9bd9ec9817379ad59cb1a4ee715410e3eb344859
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -29,4 +33,8 @@
     "tailwindcss": "^3.4.19",
     "vite": "^8.1.1"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 9bd9ec9817379ad59cb1a4ee715410e3eb344859
